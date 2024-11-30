@@ -9,6 +9,8 @@ yarn  1.22.22
 安装
 
 yarn cache clean
+
 yarn install
+
 npx expo start -c
 
